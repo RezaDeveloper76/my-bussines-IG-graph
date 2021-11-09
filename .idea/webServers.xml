@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1cfd677f-9ac4-4082-bed2-5f65f5e5fffc" name="FB app">
+        <fileTransfer accessType="SFTP" host="65.21.148.141" port="22" sshConfigId="abd229aa-1f89-46e8-98f8-e2cd8fbaf519" sshConfig="root@65.21.148.141:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
